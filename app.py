@@ -8,7 +8,7 @@ def dashboard_data():
     # Sample: Jira ticket count (replace with real API and token)
     # For demo, we just fake the data
     data = [
-        {"tool": "Jira", "tickets": 12},
+        {"tool": "Jira", "tickets": 12334},
         {"tool": "Bitbucket", "commits": 28},
         {"tool": "Confluence", "pages": 5}
     ]
